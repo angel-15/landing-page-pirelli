@@ -1,0 +1,26 @@
+.content{
+    background-image: url(../img/pirelli_image.jpg);
+    color: white;
+    height: 560px;
+}
+
+.session{
+    margin-top: 450px;
+    margin-left: 40px;
+}
+
+.escribenos{
+     margin-top: 30px;   
+     margin-left: 300px;
+}
+
+.button{
+    margin-left: 150px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
